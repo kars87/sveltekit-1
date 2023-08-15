@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to kims first<br />boilerplate SvelteKit app
 	</h1>
 
 	<h2>
