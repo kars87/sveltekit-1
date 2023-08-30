@@ -1,3 +1,7 @@
+Just started learning svelte :)
+
+
+
 # SvelteKit Demo app
 
 The official demo app for SvelteKit, hosted on Vercel.
